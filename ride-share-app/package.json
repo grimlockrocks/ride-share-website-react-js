@@ -1,0 +1,15 @@
+{
+  "name": "ride-share-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "fixed-data-table": "^0.6.3",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.3.2",
+    "react-addons-pure-render-mixin": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2"
+  }
+}
