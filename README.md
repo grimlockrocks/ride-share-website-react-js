@@ -7,8 +7,11 @@ Features:
 * Join a carpool, and send an Email to the driver
 
 Instructions:
+* Add your mail SMTP server URL in server/main.js, and the sender's address in imports/ui/CarpoolTable.jsx
 * cd ride-share-app
 * meteor npm install (this will install all the packages, you will see that a folder called "node_modules" will be created)
 * meteor (this will run the web app)
 * Go to http://localhost:3000
+
+
   
